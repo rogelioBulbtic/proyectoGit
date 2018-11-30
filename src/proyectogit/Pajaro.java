@@ -10,7 +10,17 @@ package proyectogit;
  * @author Bulbtic
  */
 public class Pajaro {
-    {System.out.println("Soy un pajaro");}
-    
-    static { System.out.println("Un ruiseñor");}
+
+    {
+        System.out.println("Soy un pajaro");
+    }
+
+    static {
+        System.out.println("Un ruiseñor");
+    }
+
+    {
+        System.out.println("");
+    }
+
 }
