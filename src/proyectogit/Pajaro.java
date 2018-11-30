@@ -11,4 +11,6 @@ package proyectogit;
  */
 public class Pajaro {
     {System.out.println("Soy un pajaro");}
+    
+    static { System.out.println("Un ruiseñor");}
 }
