@@ -20,7 +20,7 @@ public class Pajaro {
     }
 
     {
-        System.out.println("");
+        System.out.println("y canto");
     }
 
 }
